@@ -1,4 +1,4 @@
-# Gustavo-Leandro-
+# Gustavo-Leandro
 ## Oi eu sou a Gustavo Leandro, conteúdo de programação e tecnologia!
 Todas as linguagens que vou me aprofundar.
 <div style="display: inline_block"><br>
